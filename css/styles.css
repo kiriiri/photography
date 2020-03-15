@@ -1,0 +1,13 @@
+h1 {
+    color:black;
+    text-align:center;
+}
+h2 {
+    color:black;
+    text-align:center;
+}
+.column {
+    float:left;
+    padding:8px;
+}
+
